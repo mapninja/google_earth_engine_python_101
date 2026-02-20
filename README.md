@@ -1,5 +1,11 @@
 # Google Earth Engine Python 101
 
+Short URL for this repo: [goto.stanford.edu/gee-python-101](https://goto.stanford.edu/gee-python-101)
+
+Intro to Earth Engine Slides: [slides.com/staceymaples/gee101](https://slides.com/staceymaples/gee101)
+
+JavaScript Editor Sample Scripts: [goo.gl/9f9NgB](https://goo.gl/9f9NgB)
+
 This repository contains beginner-friendly lab and workshop notebooks for the Stanford Geospatial Center. The materials focus on getting started quickly with the Google Earth Engine Python API and use `geemap` [for inline visualization](https://geemap.org/).
 
 ## Audience
@@ -108,8 +114,5 @@ You can run these notebooks in either Google Colab or local Jupyter. The noteboo
 
 1. Some notebooks download or export outputs to the `notebooks/output` folder.
 2. PlanetScope data requires a Planet API key and valid account access.
-
-
-
 
 ![](images/20260220_130558_image.png)
