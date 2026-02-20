@@ -104,11 +104,26 @@ You can run these notebooks in either Google Colab or local Jupyter. The noteboo
 
 ## Notebook List
 
-1. `notebooks/00_codeeditor_to_python_basic_syntax.ipynb` basic Python syntax primer.
-2. `notebooks/01_authentication_and_libraries.ipynb` Earth Engine authentication and core libraries.
-3. `notebooks/02_image_collections_bands_and_pixels.ipynb` image collections, bands, and pixels.
-4. `notebooks/03_multispectral_imagery_visualizations.ipynb` true color, false color, and NDVI.
-5. `notebooks/10_largest_fire_today_workflow copy.ipynb` find the largest active fire using NASA FIRMS.
+1. `notebooks/00_codeeditor_to_python_basic_syntax.ipynb` basic Python syntax primer. <a target="_blank" href="https://colab.research.google.com/github/mapninja/google_earth_engine_python_101/blob/main/notebooks/00_codeeditor_to_python_basic_syntax.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+2. `notebooks/01_authentication_and_libraries.ipynb` Earth Engine authentication and core libraries. <a target="_blank" href="https://colab.research.google.com/github/mapninja/google_earth_engine_python_101/blob/main/notebooks/01_authentication_and_libraries.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+3. `notebooks/02_image_collections_bands_and_pixels.ipynb` image collections, bands, and pixels. <a target="_blank" href="https://colab.research.google.com/github/mapninja/google_earth_engine_python_101/blob/main/notebooks/02_image_collections_bands_and_pixels.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+4. `notebooks/03_multispectral_imagery_visualizations.ipynb` true color, false color, and NDVI. <a target="_blank" href="https://colab.research.google.com/github/mapninja/google_earth_engine_python_101/blob/main/notebooks/03_multispectral_imagery_visualizations.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+5. `notebooks/10_largest_fire_today_workflow copy.ipynb` find the largest active fire using NASA FIRMS. <a target="_blank" href="https://colab.research.google.com/github/mapninja/google_earth_engine_python_101/blob/main/notebooks/10_largest_fire_today_workflow%20copy.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 
 ## Notes
 
