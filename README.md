@@ -108,3 +108,8 @@ You can run these notebooks in either Google Colab or local Jupyter. The noteboo
 
 1. Some notebooks download or export outputs to the `notebooks/output` folder.
 2. PlanetScope data requires a Planet API key and valid account access.
+
+
+
+
+![](images/20260220_130558_image.png)
