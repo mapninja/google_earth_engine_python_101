@@ -109,10 +109,12 @@ You can run these notebooks in either Google Colab or local Jupyter. The noteboo
 3. `notebooks/02_image_collections_bands_and_pixels.ipynb` image collections, bands, and pixels. [https://github.com/mapninja/google_earth_engine_python_101/blob/main/notebooks/02_image_collections_bands_and_pixels.ipynb](https://github.com/mapninja/google_earth_engine_python_101/blob/main/notebooks/02_image_collections_bands_and_pixels.ipynb)
 4. `notebooks/03_multispectral_imagery_visualizations.ipynb` true color, false color, and NDVI. [https://github.com/mapninja/google_earth_engine_python_101/blob/main/notebooks/03_multispectral_imagery_visualizations.ipynb](https://github.com/mapninja/google_earth_engine_python_101/blob/main/notebooks/03_multispectral_imagery_visualizations.ipynb)
 5. `notebooks/10_largest_fire_today_workflow copy.ipynb` find the largest active fire using NASA FIRMS. [https://colab.research.google.com/github/mapninja/google_earth_engine_python_101/blob/main/notebooks/10_largest_fire_today_workflow%20copy.ipynb](https://colab.research.google.com/github/mapninja/google_earth_engine_python_101/blob/main/notebooks/10_largest_fire_today_workflow%20copy.ipynb)
+6. `notebooks/11_planetscope_fire_followup.ipynb` buffer the largest fire AOI, search the most recent PlanetScope scene, order a clipped COG, and display RGB/IRG with an NBR limitation note. [https://colab.research.google.com/github/mapninja/google_earth_engine_python_101/blob/main/notebooks/11_planetscope_fire_followup.ipynb](https://colab.research.google.com/github/mapninja/google_earth_engine_python_101/blob/main/notebooks/11_planetscope_fire_followup.ipynb)
 
 ## Notes
 
 1. Some notebooks download or export outputs to the `notebooks/output` folder.
 2. PlanetScope data requires a Planet API key and valid account access.
+3. PlanetScope imagery does not include SWIR bands, so true NBR requires a different sensor such as Sentinel-2 or Landsat.
 
 ![](images/20260220_130558_image.png)

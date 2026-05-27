@@ -1,2 +1,7 @@
 .env
 .env.example
+notebooks/2bc4707f-dfbc-4f9c-a019-c5200f412c8e/manifest.json
+notebooks/2bc4707f-dfbc-4f9c-a019-c5200f412c8e/PSScene/20260527_023509_61_254d_3B_AnalyticMS_8b_clip_file_format.tif
+notebooks/2bc4707f-dfbc-4f9c-a019-c5200f412c8e/PSScene/20260527_023509_61_254d_3B_AnalyticMS_8b_metadata_clip.xml
+notebooks/2bc4707f-dfbc-4f9c-a019-c5200f412c8e/PSScene/20260527_023509_61_254d_3B_udm2_clip_file_format.tif
+notebooks/2bc4707f-dfbc-4f9c-a019-c5200f412c8e/PSScene/20260527_023509_61_254d_metadata.json
